@@ -1,6 +1,6 @@
 ---
 title: "Office Hours"
-date: 2024-09-24
+date: 2024-12-10
 url: /officehours/
 aliases:
     - /oh.html
@@ -12,7 +12,7 @@ hidemeta: true
 
 ---
 
-#### Schedule for Fall 2024
+#### Schedule for Winter 2024 (starting 1/8/2025)
 
 + Day: Wednesday
 + Time for ECON 182 students: 4:00pm–5:00pm

@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Office Hours</title>
+      <link>https://pascalmichaillat.org/officehours/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/officehours/</guid>
+      <description>Schedule and location of Prof. Michaillat&amp;#39;s office hours at the University of California, Santa Cruz.</description>
+    </item>
     <item>
       <title>Minimalist MATLAB Template for Scientific Figures</title>
       <link>https://pascalmichaillat.org/d4/</link>
@@ -40,13 +47,6 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/13/</guid>
       <description>This paper argues that in the United States the full-employment rate of unemployment is the geometric average of the unemployment and vacancy rates.</description>
-    </item>
-    <item>
-      <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/officehours/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/officehours/</guid>
-      <description>Schedule and location of Prof. Michaillat&amp;#39;s office hours at the University of California, Santa Cruz.</description>
     </item>
     <item>
       <title>Has the Recession Started?</title>
