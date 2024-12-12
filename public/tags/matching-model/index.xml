@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/tags/matching-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unemployment</title>
+      <link>https://pascalmichaillat.org/c1/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/c1/</guid>
+      <description>This course presents a matching model of unemployment and uses it to study unemployment fluctuations, efficient unemployment, and labor market policies.</description>
+    </item>
     <item>
       <title>Modeling Migration-Induced Unemployment</title>
       <link>https://pascalmichaillat.org/14/</link>
@@ -26,13 +33,6 @@
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/15/</guid>
       <description>This paper builds a Beveridgean model of the Phillips curve. Prices respond to slack so the divine coincidence holds: prices are stable at full employment.</description>
-    </item>
-    <item>
-      <title>Unemployment</title>
-      <link>https://pascalmichaillat.org/c1/</link>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/c1/</guid>
-      <description>This course presents a matching model of unemployment and uses it to study unemployment fluctuations, job rationing, and labor market policies.</description>
     </item>
     <item>
       <title>Economic Slack</title>

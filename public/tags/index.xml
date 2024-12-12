@@ -11,20 +11,83 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>business cycles</title>
+      <link>https://pascalmichaillat.org/tags/business-cycles/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DMP model</title>
+      <link>https://pascalmichaillat.org/tags/dmp-model/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/dmp-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>job rationing</title>
+      <link>https://pascalmichaillat.org/tags/job-rationing/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/job-rationing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>labor-market tightness</title>
+      <link>https://pascalmichaillat.org/tags/labor-market-tightness/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/labor-market-tightness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>matching function</title>
+      <link>https://pascalmichaillat.org/tags/matching-function/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/matching-function/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>matching model</title>
+      <link>https://pascalmichaillat.org/tags/matching-model/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/matching-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>public employment</title>
+      <link>https://pascalmichaillat.org/tags/public-employment/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/public-employment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>unemployment</title>
+      <link>https://pascalmichaillat.org/tags/unemployment/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/unemployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>unemployment insurance</title>
+      <link>https://pascalmichaillat.org/tags/unemployment-insurance/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/unemployment-insurance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>wage rigidity</title>
+      <link>https://pascalmichaillat.org/tags/wage-rigidity/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/wage-rigidity/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Borjas-Card controversy</title>
       <link>https://pascalmichaillat.org/tags/borjas-card-controversy/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/borjas-card-controversy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>business cycles</title>
-      <link>https://pascalmichaillat.org/tags/business-cycles/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
       <description></description>
     </item>
     <item>
@@ -35,24 +98,10 @@
       <description></description>
     </item>
     <item>
-      <title>job rationing</title>
-      <link>https://pascalmichaillat.org/tags/job-rationing/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/job-rationing/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>job stealing</title>
       <link>https://pascalmichaillat.org/tags/job-stealing/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/job-stealing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>matching model</title>
-      <link>https://pascalmichaillat.org/tags/matching-model/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/matching-model/</guid>
       <description></description>
     </item>
     <item>
@@ -67,20 +116,6 @@
       <link>https://pascalmichaillat.org/tags/state-dependence/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/state-dependence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>unemployment</title>
-      <link>https://pascalmichaillat.org/tags/unemployment/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/unemployment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>wage rigidity</title>
-      <link>https://pascalmichaillat.org/tags/wage-rigidity/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/wage-rigidity/</guid>
       <description></description>
     </item>
     <item>
@@ -242,41 +277,6 @@
       <link>https://pascalmichaillat.org/tags/sahm-rule/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/sahm-rule/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DMP model</title>
-      <link>https://pascalmichaillat.org/tags/dmp-model/</link>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/dmp-model/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>labor-market tightness</title>
-      <link>https://pascalmichaillat.org/tags/labor-market-tightness/</link>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/labor-market-tightness/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>matching function</title>
-      <link>https://pascalmichaillat.org/tags/matching-function/</link>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/matching-function/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>public employment</title>
-      <link>https://pascalmichaillat.org/tags/public-employment/</link>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/public-employment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>unemployment insurance</title>
-      <link>https://pascalmichaillat.org/tags/unemployment-insurance/</link>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/unemployment-insurance/</guid>
       <description></description>
     </item>
     <item>
