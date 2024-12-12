@@ -35,13 +35,6 @@
       <description>Schedule and location of Prof. Michaillat&amp;#39;s office hours at the University of California, Santa Cruz.</description>
     </item>
     <item>
-      <title>Minimalist MATLAB Template for Scientific Figures</title>
-      <link>https://pascalmichaillat.org/d4/</link>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/d4/</guid>
-      <description>This template produces a set of scientific figures with MATLAB. The figures adhere to best practices for the visual display of quantitative information.</description>
-    </item>
-    <item>
       <title>Beveridgean Phillips Curve</title>
       <link>https://pascalmichaillat.org/15/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
@@ -51,7 +44,7 @@
     <item>
       <title>u* = √uv: The Full-Employment Rate of Unemployment in the United States</title>
       <link>https://pascalmichaillat.org/13/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/13/</guid>
       <description>This paper argues that in the United States the full-employment rate of unemployment is the geometric average of the unemployment and vacancy rates.</description>
     </item>
@@ -117,6 +110,13 @@
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/c5/</guid>
       <description>This minicourse describes business cycles, develops a matching model to explain them, and discusses how monetary and fiscal policy can tame them.</description>
+    </item>
+    <item>
+      <title>Minimalist MATLAB Template for Scientific Figures</title>
+      <link>https://pascalmichaillat.org/d4/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/d4/</guid>
+      <description>This template produces a set of scientific figures with MATLAB. The figures adhere to best practices for the visual display of quantitative information.</description>
     </item>
     <item>
       <title>An Economical Business-Cycle Model</title>
