@@ -11,12 +11,19 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Office Hours</title>
+      <link>https://pascalmichaillat.org/officehours/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/officehours/</guid>
+      <description>Schedule and location of Prof. Michaillat&amp;#39;s office hours at the University of California, Santa Cruz.</description>
+    </item>
     <item>
       <title>Unemployment</title>
       <link>https://pascalmichaillat.org/c1/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/c1/</guid>
       <description>This course presents a matching model of unemployment and uses it to study unemployment fluctuations, efficient unemployment, and labor market policies.</description>
     </item>
@@ -26,13 +33,6 @@
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/14/</guid>
       <description>This paper explains why a wave of in-migration reduces the employment rate of local workers, and why this reduction is larger in bad times.</description>
-    </item>
-    <item>
-      <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/officehours/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/officehours/</guid>
-      <description>Schedule and location of Prof. Michaillat&amp;#39;s office hours at the University of California, Santa Cruz.</description>
     </item>
     <item>
       <title>Beveridgean Phillips Curve</title>
