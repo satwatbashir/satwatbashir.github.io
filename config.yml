@@ -31,8 +31,8 @@ menu:
           weight: 5
 
 params:
-    description: "This website hosts Pascal Michaillat's research papers, course materials, design templates, curriculum vitae, and contact information."
-    author: Pascal Michaillat
+    description: "This website hosts satwat bashir research papers, course materials, design templates, curriculum vitae, and contact information."
+    author: satwat
     googleAnalyticsID: "G-97G4MZ4061"
     images: ["cover.png"]
     DateFormat: "January 2006"
@@ -47,7 +47,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","courses","design"]
+    MainSections: ["papers","teaching","blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -58,10 +58,10 @@ params:
     profileMode:
           enabled: true
           title: Satwat Bashir
-          subtitle: " I am a PhD student in Computer Science at London South Bank University (LSBU).  My research focuses primarily on heterogeneity in Federated Learning and how it impacts convergence and accuracy in Edge-Cloud environments. I explore challenges in models, data, and devices to better understand and improve decentralized systems."
+          subtitle: " I am a PhD student in Computer Science at London South Bank University (LSBU).  My research focuses primarily on heterogeneity in federated learning and how it impacts convergence and accuracy in edge-cloud environments. I explore challenges in data, model and devices to better understand and improve decentralized systems."
           imageUrl: "/satwat.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 180
+          imageHeight: 180
           buttons:
             - name: Papers
               url:  https://scholar.google.com/citations?hl=en&user=Hlwom6QAAAAJ
@@ -89,7 +89,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "satwat bashir"
       icon: /favicon.ico
       iconHeight: 18
 
