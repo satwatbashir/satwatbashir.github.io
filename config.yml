@@ -55,6 +55,12 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    extraCSS: |
+      body {
+        background-color: black;
+        color: white;
+      }
+
     profileMode:
           enabled: true
           title: Satwat Bashir
