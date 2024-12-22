@@ -1,34 +1,33 @@
 ---
 title: "Location"
-date: 2024-07-02
+date: 2024-12-21
 url: /location/
 aliases:
     - /contact.html
-author: "Pascal Michaillat"
-description: "Pascal Michaillat's office location and mailing address at the University of California, Santa Cruz."
+author: "Satwat Bashir"
+description: "Ms Satwat Bashir's office location at London South Bank Univeristy, London, UK"
 hidemeta: true
 
 ---
 
 ---
 
-#### Office address
+#### Lab address
 
-Room 437 (4th floor)  
-Engineering 2 Building  
-UC Santa Cruz
-
----
-
-#### Mailing address
-
-Economics Department  
-UC Santa Cruz  
-1156 High Street  
-Santa Cruz, CA 95064
+Room 218 (2nd floor)  <br />
+Faraday Wing, LSBU <br />
+SE1 6NG <br />
+UK
 
 ---
 
-#### Office location
+#### Lab location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d203668.66166295038!2d-122.06180807362631!3d37.09743194165668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e4174e5b57475%3A0x97880f47ac591627!2sDepartment%20of%20Economics!5e0!3m2!1sen!2sus!4v1686026390720!5m2!1sen!2sus" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe
+      src="https://www.openstreetmap.org/export/embed.html?bbox=-0.10216534137725831%2C51.49684146398238%2C-0.09965479373931885%2C51.497928510405295&amp;layer=mapnik" width="700" height="500"
+     style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<br />
+
+
+
+
