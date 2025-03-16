@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Baily-Chetty formula on Satwat Bashir</title>
+    <link>http://localhost:1313/tags/baily-chetty-formula/</link>
+    <description>Recent content in Baily-Chetty formula on Satwat Bashir</description>
+    <image>
+      <title>Satwat Bashir</title>
+      <url>http://localhost:1313/cover.png</url>
+      <link>http://localhost:1313/cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/baily-chetty-formula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Macroeconomic Approach to Optimal Unemployment Insurance: Applications</title>
+      <link>http://localhost:1313/5/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/5/</guid>
+      <description>This paper studies how the generosity of unemployment insurance should vary over the business cycle in the United States. Published in AEJ Policy, 2018.</description>
+    </item>
+    <item>
+      <title>A Macroeconomic Approach to Optimal Unemployment Insurance: Theory</title>
+      <link>http://localhost:1313/4/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/4/</guid>
+      <description>This paper develops a theory of optimal unemployment insurance in matching models. Published in AEJ Policy, 2018.</description>
+    </item>
+  </channel>
+</rss>

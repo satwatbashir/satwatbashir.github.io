@@ -77,7 +77,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: /Satwat-CV.pdf
+          url: https://scholar.google.com/citations?hl=en&user=Hlwom6QAAAAJ
         - name: Email
           url: mailto:bashis11@lsbu.ac.uk
         - name: Location

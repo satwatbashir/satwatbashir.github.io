@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Phillips curve on Satwat Bashir</title>
+    <link>http://localhost:1313/tags/phillips-curve/</link>
+    <description>Recent content in Phillips curve on Satwat Bashir</description>
+    <image>
+      <title>Satwat Bashir</title>
+      <url>http://localhost:1313/cover.png</url>
+      <link>http://localhost:1313/cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/phillips-curve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beveridgean Phillips Curve</title>
+      <link>http://localhost:1313/15/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/15/</guid>
+      <description>This paper builds a Beveridgean model of the Phillips curve. Prices respond to slack so the divine coincidence holds: prices are stable at full employment.</description>
+    </item>
+    <item>
+      <title>Pricing under Fairness Concerns</title>
+      <link>http://localhost:1313/8/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/8/</guid>
+      <description>To explain price rigidity, this paper develops a model in which buyers care about the fairness of markups but cannot observe them. Published in JEEA, 2021.</description>
+    </item>
+    <item>
+      <title>Intermediate Macroeconomics</title>
+      <link>http://localhost:1313/c4/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/c4/</guid>
+      <description>This undergraduate course covers IS-LM model of business cycles, matching model of unemployment, inflation, and Malthusian and Solowian models of growth.</description>
+    </item>
+  </channel>
+</rss>

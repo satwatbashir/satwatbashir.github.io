@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>unemployment on Satwat Bashir</title>
+    <link>http://localhost:1313/tags/unemployment/</link>
+    <description>Recent content in unemployment on Satwat Bashir</description>
+    <image>
+      <title>Satwat Bashir</title>
+      <url>http://localhost:1313/cover.png</url>
+      <link>http://localhost:1313/cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/unemployment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unemployment</title>
+      <link>http://localhost:1313/c1/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/c1/</guid>
+      <description>This course presents a matching model of unemployment and uses it to study unemployment fluctuations, efficient unemployment, and labor market policies.</description>
+    </item>
+    <item>
+      <title>Modeling Migration-Induced Unemployment</title>
+      <link>http://localhost:1313/14/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/14/</guid>
+      <description>This paper explains why a wave of in-migration reduces the employment rate of local workers, and why this reduction is larger in bad times.</description>
+    </item>
+    <item>
+      <title>Has the Recession Started?</title>
+      <link>http://localhost:1313/16/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/16/</guid>
+      <description>This note uses data on unemployment and job vacancies to build a real-time recession indicator. It shows that the US may be in recession since March 2024.</description>
+    </item>
+    <item>
+      <title>Intermediate Macroeconomics</title>
+      <link>http://localhost:1313/c4/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/c4/</guid>
+      <description>This undergraduate course covers IS-LM model of business cycles, matching model of unemployment, inflation, and Malthusian and Solowian models of growth.</description>
+    </item>
+    <item>
+      <title>A Macroeconomic Approach to Optimal Unemployment Insurance: Applications</title>
+      <link>http://localhost:1313/5/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/5/</guid>
+      <description>This paper studies how the generosity of unemployment insurance should vary over the business cycle in the United States. Published in AEJ Policy, 2018.</description>
+    </item>
+    <item>
+      <title>A Macroeconomic Approach to Optimal Unemployment Insurance: Theory</title>
+      <link>http://localhost:1313/4/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/4/</guid>
+      <description>This paper develops a theory of optimal unemployment insurance in matching models. Published in AEJ Policy, 2018.</description>
+    </item>
+    <item>
+      <title>A Theory of Countercyclical Government Multiplier</title>
+      <link>http://localhost:1313/2/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2/</guid>
+      <description>This paper develops a New Keynesian model in which the government multiplier doubles when unemployment rises from 5% to 8%. Published in AEJ Macro, 2014.</description>
+    </item>
+    <item>
+      <title>Do Matching Frictions Explain Unemployment? Not in Bad Times</title>
+      <link>http://localhost:1313/1/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/1/</guid>
+      <description>This paper proposes a matching model of the labor market with job rationing: unemployment persists even without matching frictions. Published in AER, 2012.</description>
+    </item>
+  </channel>
+</rss>

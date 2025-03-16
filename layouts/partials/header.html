@@ -41,7 +41,7 @@
 
 <header class="header">
     <nav class="nav">
-        <div class="logo">
+<!--         <div class="logo">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h">
@@ -118,10 +118,10 @@
                     {{- end}}
                 </ul>
                 {{- end }}
-            </div>
-        </div>
+            </div>-->
+        </div> 
         {{- $currentPage := . }}
-        <ul id="menu">
+<!--         <ul id="menu">
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
@@ -144,6 +144,6 @@
                 </a>
             </li>
             {{- end }}
-        </ul>
+        </ul> -->
     </nav>
 </header>

@@ -1,12 +1,15 @@
 ---
-title: "Location"
+title: ""
 date: 2024-12-21
 url: /location/
 aliases:
     - /contact.html
 author: "Satwat Bashir"
-description: "Ms Satwat Bashir's office location at London South Bank Univeristy, London, UK"
+description: "Ms Satwat Bashir's office location at London South Bank University, London, UK"
 hidemeta: true
+hideTitle: true
+---
+
 
 ---
 
